@@ -9,7 +9,7 @@ chmod +x wug-hunt-linux
 ```
 For Windows, type:
 ```
-.\wug-hunt.exe
+.\wug-hunt-windows.exe
 ```
 
 ## The game
